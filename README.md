@@ -13,12 +13,24 @@
 
 ---
 
-## 🔭 Current Projects
+## 💹 Current Projects: Investment Pattern Recognition with ML
 
-### 💹 Investment Pattern Recognition (ML Project)
-- Training ML models to detect trading patterns and make predictions
+I'm actively developing a machine learning project that identifies and models patterns in historical investment data. The goal is to create intelligent, data-driven insights to support smarter financial decision-making.
+
+**Project Highlights:**
+- 📊 Analyzing historical stock prices (OHLCV data)
+- 🧠 Training classification and regression models to detect patterns
+- 🛠️ Tools: Python, Scikit-learn, Pandas, Plotly, TensorFlow, Jupyter
+- 📈 Visualizing trends, backtesting strategies, and forecasting signals
 - Time-series data processing, feature engineering, and model evaluation
 - Goal: Build an intelligent assistant for smarter pattern recognition
+
+---
+
+## 🧠 Technical Interests & Stack
+
+**💡 Interests:**  
+Machine Learning, Time Series Analysis, AI for Finance, Autonomous Systems
 
 ---
 
@@ -34,3 +46,14 @@ Languages: Python, C++
 ML Frameworks: Scikit-learn, TensorFlow, PyTorch
 Data Tools: Pandas, NumPy, Jupyter, Matplotlib, Seaborn
 Dev Tools: Git
+```
+
+---
+
+## 🧭 2025 Goals
+
+- 🚀 Deploy an AI-powered investment assistant (Streamlit or Flask app)
+- 🤝 Collaborate on open-source ML/AI research or tools
+- 🧪 Experiment with LSTMs & reinforcement learning for time series
+
+
