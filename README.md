@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🌍 Based in Denmark, exploring the intersection of **robotics and AI**
-- 💡 Currently building a **machine learning system for investment pattern recognition**
+- 💡 Currently building a **machine learning system for chart pattern recognition**
 - 🤖 Background in ROS2 and autonomous systems
 - 📚 Actively learning and applying **ML & AI** in practical domains like finance and robotics
 
@@ -18,7 +18,7 @@
 ### 💹 Investment Pattern Recognition (ML Project)
 - Training ML models to detect trading patterns and make predictions
 - Time-series data processing, feature engineering, and model evaluation
-- Goal: Build an intelligent assistant for smarter investment insights
+- Goal: Build an intelligent assistant for smarter pattern recognition
 
 ---
 
