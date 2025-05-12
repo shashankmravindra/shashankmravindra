@@ -35,7 +35,7 @@ Machine Learning, Time Series Analysis, AI for Finance, Autonomous Systems
 ---
 
 ### 🤖 ROS2 Navigation Stack
--🔄 Exploring robot path planning and navigation using ROS2 and Gazebo
+- 🔄 Exploring robot path planning and navigation using ROS2 and Gazebo
 - 🛠️ Forked and contributed to core ROS2 projects like `navigation2` and `launch_ros`
 
 ---
