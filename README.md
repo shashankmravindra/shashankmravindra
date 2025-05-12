@@ -22,8 +22,8 @@ I'm actively developing a machine learning project that identifies and models pa
 - 🧠 Training classification and regression models to detect patterns
 - 🛠️ Tools: Python, Scikit-learn, Pandas, Plotly, TensorFlow, Jupyter
 - 📈 Visualizing trends, backtesting strategies, and forecasting signals
-- Time-series data processing, feature engineering, and model evaluation
-- Goal: Build an intelligent assistant for smarter pattern recognition
+- ⚙️Time-series data processing, feature engineering, and model evaluation
+- 🚀Goal: Build an intelligent assistant for smarter pattern recognition
 
 ---
 
@@ -35,8 +35,8 @@ Machine Learning, Time Series Analysis, AI for Finance, Autonomous Systems
 ---
 
 ### 🤖 ROS2 Navigation Stack
-- Exploring robot path planning and navigation using ROS2 and Gazebo
-- Forked and contributed to core ROS2 projects like `navigation2` and `launch_ros`
+-🔄 Exploring robot path planning and navigation using ROS2 and Gazebo
+- 🛠️ Forked and contributed to core ROS2 projects like `navigation2` and `launch_ros`
 
 ---
 ## 🧰 Tech Stack
