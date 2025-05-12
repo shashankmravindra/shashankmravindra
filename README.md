@@ -20,10 +20,13 @@
 - Time-series data processing, feature engineering, and model evaluation
 - Goal: Build an intelligent assistant for smarter investment insights
 
+---
+
 ### 🤖 ROS2 Navigation Stack
 - Exploring robot path planning and navigation using ROS2 and Gazebo
 - Forked and contributed to core ROS2 projects like `navigation2` and `launch_ros`
 
+---
 ## 🧰 Tech Stack
 
 ```python
