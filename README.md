@@ -25,6 +25,22 @@ I'm actively developing a machine learning project that identifies and models pa
 - ⚙️Time-series data processing, feature engineering, and model evaluation
 - 🚀Goal: Build an intelligent assistant for smarter pattern recognition
 
+### 📦 [Datacollector](https://github.com/shashankmravindra/Datacollector)
+A Python-based data collection pipeline for gathering and preprocessing historical stock market data (OHLCV). This serves as the data foundation for the ML pattern recognition workflow.
+- 🗃️ Automates retrieval of historical price data from financial data sources
+- 🔄 Handles data cleaning, normalization, and structured storage for downstream ML use
+- 🛠️ Built with Python and Pandas
+
+---
+
+## 🌐 Web Projects
+
+### 🎨 [Mallara Portfolio](https://github.com/shashankmravindra/mallara-protfolio)
+A responsive personal portfolio website showcasing projects, skills, and professional experience.
+- 🖥️ Built with HTML, CSS, and JavaScript
+- 📱 Responsive design for all modern browsers and devices
+- 🔗 Features project showcases, skills overview, and contact information
+
 ---
 
 ## 🧠 Technical Interests & Stack
